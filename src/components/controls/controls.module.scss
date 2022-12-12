@@ -1,0 +1,12 @@
+.body {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px 0;
+
+  button {
+    background: #0f697a;
+    color: #fff;
+    padding: 10px 20px;
+  }
+}
